@@ -1,15 +1,15 @@
 {
-  "main.css": "/robofriends/static/css/main.bb92264c.chunk.css",
-  "main.js": "/robofriends/static/js/main.85cf4f24.chunk.js",
-  "main.js.map": "/robofriends/static/js/main.85cf4f24.chunk.js.map",
-  "static/css/1.f0cfa408.chunk.css": "/robofriends/static/css/1.f0cfa408.chunk.css",
-  "static/js/1.54019416.chunk.js": "/robofriends/static/js/1.54019416.chunk.js",
-  "static/js/1.54019416.chunk.js.map": "/robofriends/static/js/1.54019416.chunk.js.map",
-  "runtime~main.js": "/robofriends/static/js/runtime~main.1446d6ec.js",
-  "runtime~main.js.map": "/robofriends/static/js/runtime~main.1446d6ec.js.map",
-  "static/css/main.bb92264c.chunk.css.map": "/robofriends/static/css/main.bb92264c.chunk.css.map",
-  "static/css/1.f0cfa408.chunk.css.map": "/robofriends/static/css/1.f0cfa408.chunk.css.map",
-  "index.html": "/robofriends/index.html",
-  "precache-manifest.6447b9037ff012c9ec807c39ec11b685.js": "/robofriends/precache-manifest.6447b9037ff012c9ec807c39ec11b685.js",
-  "service-worker.js": "/robofriends/service-worker.js"
+  "main.css": "/robofriends1/static/css/main.bb92264c.chunk.css",
+  "main.js": "/robofriends1/static/js/main.85cf4f24.chunk.js",
+  "main.js.map": "/robofriends1/static/js/main.85cf4f24.chunk.js.map",
+  "static/css/1.f0cfa408.chunk.css": "/robofriends1/static/css/1.f0cfa408.chunk.css",
+  "static/js/1.54019416.chunk.js": "/robofriends1/static/js/1.54019416.chunk.js",
+  "static/js/1.54019416.chunk.js.map": "/robofriends1/static/js/1.54019416.chunk.js.map",
+  "runtime~main.js": "/robofriends1/static/js/runtime~main.82f656e4.js",
+  "runtime~main.js.map": "/robofriends1/static/js/runtime~main.82f656e4.js.map",
+  "static/css/1.f0cfa408.chunk.css.map": "/robofriends1/static/css/1.f0cfa408.chunk.css.map",
+  "static/css/main.bb92264c.chunk.css.map": "/robofriends1/static/css/main.bb92264c.chunk.css.map",
+  "index.html": "/robofriends1/index.html",
+  "precache-manifest.b3c363e8de7fb537f5fb1dd90f04932e.js": "/robofriends1/precache-manifest.b3c363e8de7fb537f5fb1dd90f04932e.js",
+  "service-worker.js": "/robofriends1/service-worker.js"
 }
